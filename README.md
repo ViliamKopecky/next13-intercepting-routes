@@ -1,3 +1,7 @@
+# Next.js app directory intercepting routes
+
+Is it correct that intercepting route is active during all subsequent routes?
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
