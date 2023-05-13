@@ -1,6 +1,12 @@
 # Next.js app directory intercepting routes
 
-Is it correct that intercepting route is active during all subsequent routes?
+Is it correct that intercepting route (yellow modal) is active during all subsequent routes? [Example here at next13-intercepting-routes.vercel.app](https://next13-intercepting-routes.vercel.app/intercepting/yellow)
+
+
+
+https://github.com/ViliamKopecky/next13-intercepting-routes/assets/316435/4b48fb5e-0cde-49e4-910d-539f30f875d7
+
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
